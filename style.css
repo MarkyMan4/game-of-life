@@ -1,7 +1,12 @@
 canvas {
-    background-color: #3b3b3b;
-  }
-  
+  background-color: #3b3b3b;
+}
+
 .btn {
-    margin: 10px;
+	margin: 5px;
+}
+
+#rule {
+	margin-top: 5px;
+	margin-right: 5px;
 }
